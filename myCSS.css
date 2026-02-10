@@ -22,10 +22,11 @@ height: 80px;
 
 }
 <h3> {
-  color: #9A8045
+  color: #9A8045;
+  font-family:monospace;
 }
 <p> {
-  font-family: monospace;
+  font-family:monospace;
   color: #000000;
   text-align: left;
 }
