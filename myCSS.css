@@ -21,6 +21,9 @@ width: 100%;
 height: 80px;
 
 }
+<li>{
+  text-align: left;
+}
 <h3> {
   color: #9A8045;
   font-family:monospace;
